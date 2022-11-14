@@ -16,7 +16,8 @@
 
 
 ##  Tools
- - JavaScript
- - CSS
- - HTML5
+ - [JavaScript](https://www.javascript.com/about)
+ - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+ - [HTML5](https://html.spec.whatwg.org/multipage/)
+
  
