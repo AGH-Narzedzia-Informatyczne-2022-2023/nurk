@@ -20,7 +20,7 @@ As our project we decided to create a simple meditation web app. The user will b
 - [HTML5](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 **Some inspirations:**
-
+ 
 - _MyLife Meditation_
 - _Medito_
 - _Calm_
