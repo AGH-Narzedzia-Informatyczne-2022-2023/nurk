@@ -25,3 +25,5 @@ As our project we decided to create a simple meditation web app. The user will b
 - _Medito_
 - _Calm_
 - _Balance_
+
+Work is easier without conflicts.
