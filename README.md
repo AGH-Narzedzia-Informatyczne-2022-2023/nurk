@@ -24,8 +24,8 @@ As our project we decided to create a simple meditation web app. The user will b
 - _MyLife Meditation_
 - _Medito_
 - _Calm_
-- _Balance_
+- _Balance
 
 Resolving conflicts is very important in a team. Work is easier without conflicts. We need to learn how to solve them. 
 
-hmmm? i am wondering about conflicts
+hmmm? i am wondering about conflicts hmmm
