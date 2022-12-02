@@ -28,4 +28,6 @@ As our project we decided to create a simple meditation web app. The user will b
 
 Resolving conflicts is very important in a team. Work is easier without conflicts. We need to learn how to solve them.
 
-I think solving some conflicts will be hard.
+Plese I realy hope it works :((((((((((((((()))))))))))))))
+$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$
