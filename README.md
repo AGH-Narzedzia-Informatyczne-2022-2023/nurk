@@ -28,4 +28,4 @@ As our project we decided to create a simple meditation web app. The user will b
 
 Resolving conflicts is very important in a team. Work is easier without conflicts. We need to learn how to solve them. 
 
-hmmm? i am wondering about conflicts hmmm
+Yup, I agree, but conflicts are inevitable 
